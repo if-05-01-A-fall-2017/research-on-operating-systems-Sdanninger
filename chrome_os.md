@@ -1,0 +1,2 @@
+Chrome Os ist ein Operating System von Google. Es ist ein leichtes Betriebsystem, damit ist gemeint das es nicht sehr viele Resourchen,
+ wie Prozessorpower oder Speicher braucht. Das hat zur Folge das Chrome OS Laptops billig hergestellt werden koennen und sehr lange Akku-Laufzeiten erreicht werden koennen. Der Speicher kann gering gehalten werden da viele Apps Web basiert sind. Nachteil ist das eine staendige  Internetverbindung benoetigt wird. Auf Chrome OS koennen auch Android-Apps installiert werden.
